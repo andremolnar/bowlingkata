@@ -1,6 +1,6 @@
 # JSON Syntax
 Your composer.json file must be proper JSON
-* No unescaped quotes
+* No unescaped quotes inside strings
 * No code comments
 * No strings with linebreaks spanning multiple lines
 
